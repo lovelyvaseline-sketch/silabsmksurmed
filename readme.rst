@@ -51,7 +51,6 @@ Teknologi dan kebutuhan
   unggahan harus dapat ditulis oleh proses web server.
 - Akses internet diperlukan untuk memuat aset CDN.
 
-Kode aplikasi menggunakan sintaks PHP 7+, termasuk operator ``??``.
 Persyaratan PHP pada ``composer.json`` merupakan metadata bawaan framework,
 bukan jaminan kompatibilitas aplikasi pada semua versi PHP. Uji versi PHP
 yang akan digunakan sebelum deployment.
