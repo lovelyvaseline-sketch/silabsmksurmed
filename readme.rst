@@ -43,7 +43,6 @@ Teknologi dan kebutuhan
 
 - **Backend:** PHP dan CodeIgniter **3.1.13**, dengan pola MVC.
 - **Database:** MySQL/MariaDB melalui driver PHP ``mysqli``.
-- **Antarmuka:** Tailwind CSS dan Font Awesome 6.4.0 melalui CDN.
 - **Server lokal:** Apache, misalnya melalui WampServer atau XAMPP.
   Aktifkan ``mod_rewrite`` dan izinkan ``.htaccess`` jika menggunakan URL
   tanpa ``index.php``.
